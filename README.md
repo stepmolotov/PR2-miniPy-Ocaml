@@ -1,4 +1,4 @@
-# PR2-miniPy-Ocaml
+# miniPy-Interpreter-Ocaml
 Realizzazione di un interprete di un linguaggio funzionale in Ocaml.
 
 ## Requirements
